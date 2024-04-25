@@ -1,0 +1,16 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    background-color: coral;
+}
+h1{
+    color: rgb(83, 7, 7);
+    text-shadow: black;
+    font-size: xx-large;
+}
+h2{
+    display: flex;
+    color: blanchedalmond;
+    align-items: center;
+    justify-content: center;
+}
